@@ -1,7 +1,6 @@
-#**Arsip Kode Python**
+# **Arsip Kode Program Python🐍**
 
-##📝Deskripsi
+## 📝Deskripsi
 Berikut merupakan arsip kode program bahasa Python🐍 dari tugas kuliah dan proyek mandiri.
 
-##📌Status
-Kode program ini sudah tidak dikembangkan secara aktif.
+> 📌Status: Kode program ini sudah tidak dikembangkan secara aktif.
